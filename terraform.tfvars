@@ -1,2 +1,2 @@
-project_id = "REPLACE_ME"
-region     = "us-central1"
+project_id = "stei-rpl-13518085"
+region     = "asia-southeast2-a"
